@@ -5,5 +5,5 @@ I use this account for making contributions on behalf of my organization; 8848 D
 
 I love inspecting codebases and I keep looking for issues left behind by others ^-^
 
-alter-ego @sambhavsaxena
+alter-ego [@sambhavsaxena](https://github.com/sambhavsaxena)
 
